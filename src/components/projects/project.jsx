@@ -32,7 +32,7 @@ const Project = (props) => {
 							<center>
 								<img
 									style={{ maxWidth: "800px" }}
-									src="/images/project1.png"
+									src="/portafolio/project1.png"
 									alt="about"
 								/>
 							</center>
