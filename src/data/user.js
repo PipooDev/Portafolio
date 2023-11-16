@@ -3,7 +3,7 @@ const INFO = {
 		title: "Portafolio de Hector Mancilla",
 		name: "Hector Eduardo Mancilla Cabrera",
 		email: "hectormancilla369@gmail.com",
-		logo: "https://pipoodev.github.io/logo.png",
+		logo: "/images/logo.png",
 	},
 
 	socials: {

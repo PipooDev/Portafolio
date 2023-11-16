@@ -32,7 +32,7 @@ const Project = (props) => {
 							<center>
 								<img
 									style={{ maxWidth: "800px" }}
-									src="https://pipoodev.github.io/project1.png"
+									src="/images/project1.png"
 									alt="about"
 								/>
 							</center>

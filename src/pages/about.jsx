@@ -54,7 +54,7 @@ const About = () => {
 								<div className="about-image-container">
 									<div className="about-image-wrapper">
 										<img
-											src="https://pipoodev.github.io/portafolio/about.jpg"
+											src="/images/about.jpg"
 											alt="about"
 											className="about-image"
 										/>

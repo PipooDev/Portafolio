@@ -48,7 +48,7 @@ const ReadArticle = () => {
 					<div className="read-article-container">
 						<div className="read-article-back">
 							<img
-								src="https://pipoodev.github.io/back-button.png"
+								src="https://pipoodev.github.io/portafolio/back-button.png"
 								alt="back"
 								className="read-article-back-button"
 								onClick={() => navigate(-1)}
